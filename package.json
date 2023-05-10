@@ -1,6 +1,6 @@
 {
   "name": "hardium-launcher",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "productName": "Hardium Launcher",
   "description": "Hardium Minecraft Launcher",
   "author": "mrpiano5454",
@@ -31,5 +31,9 @@
     "@electron-forge/maker-squirrel": "^6.1.1",
     "@electron-forge/maker-zip": "^6.1.1",
     "electron": "24.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPiano5454/Application.git"
   }
 }
